@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31929" started-at="2020-05-20T06:21:27Z" finished-at="2020-05-20T06:21:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31929" started-at="2020-05-20T06:21:27Z" finished-at="2020-05-20T06:21:59Z">
+      <class name="practise.AppiumFramework.RealDeviceDemo">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.RealDeviceDemo@5a8e6209]" name="killAllNodes" is-config="true" duration-ms="3017" started-at="2020-05-20T06:21:27Z" finished-at="2020-05-20T06:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:practise.AppiumFramework.RealDeviceDemo@5a8e6209]" name="totalValidation" duration-ms="28893" started-at="2020-05-20T06:21:30Z" finished-at="2020-05-20T06:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- practise.AppiumFramework.RealDeviceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
